@@ -3,7 +3,7 @@
 <p>Marvel Movies List for Avengers</p>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/mskian/marvel-avengers/master/screenshot.gif">
+<img src="https://raw.githubusercontent.com/mskian/marvel-avengers/master/screenshot.png">
 </p>
 
 ## Requirements
