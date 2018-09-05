@@ -2,6 +2,10 @@
 
 <p>Marvel Movies List for Avengers</p>
 
+<p align="center">
+<img src="https://raw.githubusercontent.com/mskian/marvel-avengers/master/screenshot.gif">
+</p>
+
 ## Requirements
 
 - Node.JS 6 or 8x
