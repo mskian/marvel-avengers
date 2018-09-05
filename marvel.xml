@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<items>
+    <id>1</id>
+    <title>The Incredible Hulk</title>
+    <release_date>2008-06-12</release_date>
+</items>
+<items>
+    <id>2</id>
+    <title>Iron Man</title>
+    <release_date>2008-04-30</release_date>
+</items>
+<items>
+    <id>3</id>
+    <title>Iron Man 2</title>
+    <release_date>2010-04-28</release_date>
+</items>
+<items>
+    <id>4</id>
+    <title>Thor</title>
+    <release_date>2011-04-21</release_date>
+</items>
+<items>
+    <id>5</id>
+    <title>Captain America: The First Avenger</title>
+    <release_date>2011-07-22</release_date>
+</items>
+<items>
+    <id>6</id>
+    <title>The Avengers</title>
+    <release_date>2012-04-25</release_date>
+</items>
+<items>
+    <id>7</id>
+    <title>Iron Man 3</title>
+    <release_date>2013-04-18</release_date>
+</items>
+<items>
+    <id>8</id>
+    <title>Thor: The Dark World</title>
+    <release_date>2013-10-29</release_date>
+</items>
+<items>
+    <id>9</id>
+    <title>Captain America: The Winter Soldier</title>
+    <release_date>2014-03-20</release_date>
+</items>
+<items>
+    <id>10</id>
+    <title>Guardians of the Galaxy</title>
+    <release_date>2014-07-30</release_date>
+</items>
+<items>
+    <id>11</id>
+    <title>Avengers: Age of Ultron</title>
+    <release_date>2015-04-22</release_date>
+</items>
+<items>
+    <id>12</id>
+    <title>Ant-Man</title>
+    <release_date>2015-07-14</release_date>
+</items>
+<items>
+    <id>13</id>
+    <title>Captain America: Civil War</title>
+    <release_date>2016-04-27</release_date>
+</items>
+<items>
+    <id>14</id>
+    <title>Doctor Strange</title>
+    <release_date>2016-10-25</release_date>
+</items>
+<items>
+    <id>15</id>
+    <title>Guardians of the Galaxy Vol. 2</title>
+    <release_date>2017-04-19</release_date>
+</items>
+<items>
+    <id>16</id>
+    <title>Spider-Man: Homecoming</title>
+    <release_date>2017-07-05</release_date>
+</items>
+<items>
+    <id>17</id>
+    <title>Thor: Ragnarok</title>
+    <release_date>2017-10-25</release_date>
+</items>
+<items>
+    <id>18</id>
+    <title>Black Panther</title>
+    <release_date>2018-02-13</release_date>
+</items>
+<items>
+    <id>19</id>
+    <title>Avengers: Infinity War</title>
+    <release_date>2018-04-25</release_date>
+</items>
+<items>
+    <id>20</id>
+    <title>Ant-Man and the Wasp</title>
+    <release_date>2018-07-04</release_date>
+</items>

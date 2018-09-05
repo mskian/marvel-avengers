@@ -1,0 +1,31 @@
+{
+  "name": "marvel-avengers",
+  "version": "1.0.0",
+  "description": "Marvel Movies List for Avengers",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mskian/marvel-avengers.git"
+  },
+  "keywords": [
+    "marvel",
+    "avengers"
+  ],
+  "author": "Santhosh Veer",
+  "license": "MIT",
+  "engines": {
+  "node": "^6.9.0 || ^8.9.0"
+  },
+  "bugs": {
+    "url": "https://github.com/mskian/marvel-avengers/issues"
+  },
+  "homepage": "https://github.com/mskian/marvel-avengers/#readme",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "cli-table3": "^0.5.1",
+    "ora": "^3.0.0"
+  }
+}
