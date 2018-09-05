@@ -8,7 +8,7 @@
 
 ## Requirements
 
-- Node.JS 6 or 8x
+- Node.JS 8x
 - GIT to clone this Respo
 
 ## Installation
