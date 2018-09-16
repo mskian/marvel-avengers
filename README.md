@@ -27,6 +27,12 @@ npm install
 node app.js
 ```
 
+## Python CLI
+
+```
+python marvel.py
+```
+
 ## API
 
 Marvel Avengers Movie List API
