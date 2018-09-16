@@ -1,6 +1,7 @@
 # Dependency directory
 node_modules
 .eslintrc.js
+test.py
 
 # Optional npm cache directory
 .npm
