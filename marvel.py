@@ -1,4 +1,5 @@
 import json
+import time
 import requests
 import click
 
@@ -22,6 +23,7 @@ print('\n')
 
 # Print the Movies List from API
 for marvel in DATA['items']:
+    time.sleep(0.2)
     COUNTER += 1
     print("Title:", marvel['title'], "\nMovie Release Date:", marvel['release_date'])
     print("----")
