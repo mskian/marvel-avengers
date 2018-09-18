@@ -79,3 +79,7 @@ items:
    id: 20
   title: "Ant-Man and the Wasp"
   release_date: "2018-07-04"
+ - 
+   id: 21
+  title: "Captain Marvel"
+  release_date: "2019-03-08"
