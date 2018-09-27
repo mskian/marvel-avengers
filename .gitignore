@@ -2,6 +2,7 @@
 node_modules
 .eslintrc.js
 test.py
+.npmignore
 
 # Optional npm cache directory
 .npm
