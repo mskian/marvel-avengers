@@ -27,6 +27,18 @@ npm install
 node app.js
 ```
 
+## Install Via NPM
+
+- Install and Execute
+
+```
+npm install -g marvel-avengers
+```
+
+```
+marvel
+```
+
 ## Python CLI
 
 ```
