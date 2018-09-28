@@ -3,11 +3,11 @@ node_modules
 .eslintrc.js
 .gitignore
 .npmignore
-test.py
 marvel.json
 marvel.py
 marvel.xml
 marvel.yaml
+test.py
 .git*
 
 # Optional npm cache directory
