@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "bin": {
-    "marvel": "bin/marvel"
+    "marvel": "app.js"
   },
   "repository": {
     "type": "git",
