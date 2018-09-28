@@ -1,5 +1,7 @@
 ## Marvel Avengers
 
+[![dependencies Status](https://david-dm.org/mskian/marvel-avengers/status.svg)](https://david-dm.org/mskian/marvel-avengers)
+
 <p>Marvel Movies List for Avengers</p>
 
 <p align="center">
