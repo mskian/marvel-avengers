@@ -1,8 +1,8 @@
-## Marvel Avengers
+# Marvel Avengers
 
 [![dependencies Status](https://david-dm.org/mskian/marvel-avengers/status.svg)](https://david-dm.org/mskian/marvel-avengers)
 
-<p>Marvel Movies List for Avengers</p>
+## Marvel Movies List for Avengers
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/mskian/marvel-avengers/master/screenshot.png">
@@ -17,7 +17,7 @@
 
 - Install via GIT
 
-```
+```bash
 git clone https://github.com/mskian/marvel-avengers.git
 cd marvel-avengers
 npm install
@@ -25,7 +25,7 @@ npm install
 
 - Execute the Script
 
-```
+```bash
 node app.js
 ```
 
@@ -33,17 +33,17 @@ node app.js
 
 - Install and Execute
 
-```
+```bash
 npm install -g marvel-avengers
 ```
 
-```
+```bash
 marvel
 ```
 
 ## Python CLI
 
-```
+```bash
 python marvel.py
 ```
 
@@ -51,9 +51,10 @@ python marvel.py
 
 Marvel Avengers Movie List API
 
-```
+```bash
 https://api.jsonbin.io/b/5b8e93e4db948c68635c80f4/latest
 ```
+
 ## License
 
 MIT
