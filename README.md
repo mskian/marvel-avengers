@@ -1,6 +1,6 @@
 # Marvel Avengers
 
-[![dependencies Status](https://david-dm.org/mskian/marvel-avengers/status.svg)](https://david-dm.org/mskian/marvel-avengers)
+[![dependencies Status](https://david-dm.org/mskian/marvel-avengers/status.svg)](https://david-dm.org/mskian/marvel-avengers) [![Build Status](https://travis-ci.org/mskian/marvel-avengers.svg?branch=master)](https://travis-ci.org/mskian/marvel-avengers)
 
 ## Marvel Movies List for Avengers
 
