@@ -8,6 +8,8 @@ marvel.py
 marvel.xml
 marvel.yaml
 test.py
+.travis.yml
+screenshot.png
 .git*
 
 # Optional npm cache directory
