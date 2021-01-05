@@ -30,7 +30,7 @@
   },
   "homepage": "https://github.com/mskian/marvel-avengers/#readme",
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "cli-table3": "^0.5.1",
     "ora": "^4.0.3"
   }
